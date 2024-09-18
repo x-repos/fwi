@@ -43,6 +43,12 @@ This section focuses on utilizing the JUDI framework for seismic inversion. JUDI
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ### References
 - [Devito Documentation](https://www.devitoproject.org/)  
   Learn more about Devito for symbolic computations and stencil-based modeling.
