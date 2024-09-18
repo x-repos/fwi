@@ -1,6 +1,6 @@
 # fwi-examples
 
-## Part 1: Devito
+## Part 1: Devito (Python)
 This section includes examples that showcase the use of Devito for computational geophysics tasks, focusing on symbolic expressions, stencil computations, and forward modeling.
 
 - **Symbolic Mathematics with SymPy:** Automatically generate symbolic expressions for wave equations.
@@ -12,7 +12,7 @@ This section includes examples that showcase the use of Devito for computational
 
 ---
 
-## Part 2: Julia for FWI (JUDI.jl)
+## Part 2: JUDI (Julia)
 This section focuses on utilizing the JUDI framework for seismic inversion. JUDI is a Julia-based framework for large-scale seismic modeling and inversion, combining the power of Julia with performance-optimized linear algebra and parallel computing libraries.
 
 ### JUDI Overview:
