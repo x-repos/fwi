@@ -8,4 +8,4 @@ xlabel("Lateral position [km]");
 ylabel("Depth [km]");
 println("done")
 # show()
-# gcf()
+gcf()
