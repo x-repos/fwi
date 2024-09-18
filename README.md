@@ -1,4 +1,6 @@
-# fwi-examples
+# **fwi-examples**
+
+---
 
 ## Part 1: Devito (Python DSL)
 This section includes examples that showcase the use of Devito for computational geophysics tasks, focusing on symbolic expressions, stencil computations, and forward modeling.
