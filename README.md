@@ -33,8 +33,7 @@ This section focuses on utilizing the JUDI framework for seismic inversion. JUDI
 ---
 
 ### References
-- [JUDI.jl Documentation](https://slimgroup.github.io/JUDI.jl/dev/about/)  
-  For further reading on JUDI's capabilities and architecture.
-  
 - [Devito Documentation](https://www.devitoproject.org/)  
   Learn more about Devito for symbolic computations and stencil-based modeling.
+- [JUDI.jl Documentation](https://slimgroup.github.io/JUDI.jl/dev/about/)  
+  For further reading on JUDI's capabilities and architecture.
