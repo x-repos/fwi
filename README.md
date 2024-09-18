@@ -1,4 +1,4 @@
-# **fwi-examples**
+# Full Waveform Inversion
 
 <p align="center">
   <a href="https://skillicons.dev">
