@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- First Line: 6 Icons -->
-    <img src="https://skillicons.dev/icons?i=py,julia,c"
+    <img src="https://skillicons.dev/icons?i=julia,py,c"
          width="20%" height="20%"/>
   </a>
 </p>
