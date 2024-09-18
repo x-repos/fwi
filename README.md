@@ -4,7 +4,7 @@
   <a href="https://skillicons.dev">
     <!-- First Line: 6 Icons -->
     <img src="https://skillicons.dev/icons?i=py,julia,c"
-         width="50%" height="50%"/>
+         width="20%" height="20%"/>
   </a>
 </p>
 
